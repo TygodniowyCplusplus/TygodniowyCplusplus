@@ -1,0 +1,18 @@
+*.*
+!*.c
+!*.cpp
+!*.cu
+!*.h
+!*.hpp
+!*.s
+!*.asm
+!*.i
+!*.ii
+!*.o
+!*.out
+!*.md
+!main
+!main2
+!main3
+!.gitignore
+# git add --ignore-removal *
